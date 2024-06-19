@@ -17,7 +17,7 @@
 </div>
 <br/>
 
-# i'm learning
+## i'm learning
 <div style="display: inline-block">
     <img align="center" alt="react-native" src="https://img.shields.io/badge/React.native-087ea4?style=for-the-badge&logo=React&logoColor=white"/>
     <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
