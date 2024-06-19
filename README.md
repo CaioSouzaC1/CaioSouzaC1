@@ -17,8 +17,8 @@
 </div>
 <br/>
 
-What i'm learning
-<div style="display: inline-block"><br/>
+i'm learning
+<div style="display: inline-block">
     <img align="center" alt="react-native" src="https://img.shields.io/badge/React.native-087ea4?style=for-the-badge&logo=React&logoColor=white"/>
     <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
     <img align="center" alt="python" src="https://img.shields.io/badge/python-2b5b84?style=for-the-badge&logo=python&logoColor=white"/>
