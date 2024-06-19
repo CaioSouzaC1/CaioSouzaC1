@@ -15,7 +15,7 @@
     <img align="center" alt="react" src="https://img.shields.io/badge/React-087ea4?style=for-the-badge&logo=react&logoColor=white"/>
     <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 </div><br/>
-## What i'm learning
+### What i'm learning
 <div style="display: inline-block"><br/>
     <img align="center" alt="react-native" src="https://img.shields.io/badge/React.native-087ea4?style=for-the-badge&logo=React&logoColor=white"/>
     <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
